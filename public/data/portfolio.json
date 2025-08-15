@@ -1,0 +1,155 @@
+{
+  "personal": {
+    "name": "Ratan Singh",
+    "profession": "Full Stack Developer",
+    "tagline": "Building digital experiences that make a difference",
+    "bio": "I'm a passionate full-stack developer with one years of experience creating web applications that solve real-world problems. I love turning complex ideas into elegant, user-friendly solutions.",
+    "profileImage": "/images/ProfilePicture.jpg",
+    "resume": "/data/Resume.pdf",
+    "location": "Indore, Madhya Pradesh, India",
+    "email": "ratan.work@email.com",
+    "phone": "+91 9329224240"
+  },
+"skills": [
+  { "name": "JavaScript", "level": 90, "category": "Frontend" },
+  { "name": "React.js", "level": 85, "category": "Frontend" },
+  { "name": "Next.js", "level": 80, "category": "Frontend" },
+  { "name": "TypeScript", "level": 80, "category": "Frontend" },
+  { "name": "Tailwind CSS", "level": 85, "category": "Frontend" },
+  { "name": "HTML5", "level": 95, "category": "Frontend" },
+  { "name": "CSS3", "level": 90, "category": "Frontend" },
+
+  { "name": "Node.js", "level": 80, "category": "Backend" },
+  { "name": "Express.js", "level": 80, "category": "Backend" },
+  { "name": "Python", "level": 75, "category": "Backend" },
+  { "name": "Django", "level": 70, "category": "Backend" },
+
+  { "name": "PostgreSQL", "level": 70, "category": "Database" },
+  { "name": "MongoDB", "level": 75, "category": "Database" },
+  { "name": "MySQL", "level": 70, "category": "Database" },
+
+  { "name": "AWS", "level": 70, "category": "Cloud" },
+  { "name": "Vercel", "level": 75, "category": "Cloud" },
+  { "name": "Netlify", "level": 75, "category": "Cloud" },
+
+  { "name": "Docker", "level": 65, "category": "DevOps" },
+  { "name": "Git", "level": 85, "category": "DevOps" },
+  { "name": "GitHub Actions", "level": 70, "category": "DevOps" },
+
+  { "name": "REST API", "level": 85, "category": "Other" },
+  { "name": "GraphQL", "level": 70, "category": "Other" },
+  { "name": "JWT Authentication", "level": 80, "category": "Other" }
+],
+  "projects": [
+    {
+  "id": 1,
+  "title": "Car-Rental-Website",
+  "description": "A full-stack car rental platform with user authentication, vehicle booking, secure payment processing via Stripe, and real-time availability tracking.",
+  "image": "/assets/images/project1.jpg",
+  "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+  "githubUrl": "https://github.com/ratanlodhi/Car-Rental-Website",
+  "liveUrl": "https://car-rental-website-delta-three.vercel.app/",
+  "featured": true
+},
+   {
+  "id": 2,
+  "title": "Wedding Management App",
+  "description": "A full-stack wedding planning application that helps couples and planners manage guest lists, schedules, and tasks with real-time updates and collaboration features.",
+  "image": "/assets/images/project2.jpg",
+  "technologies": ["React", "Socket.io", "Express", "MongoDB"],
+  "githubUrl": "https://github.com/ratanlodhi/Wedding-Managemnet",
+  "liveUrl": "https://ratanlodhi.github.io/Wedding-Managemnet/",
+  "featured": true
+},
+    {
+      "id": 3,
+      "title": "Data Visualization Dashboard",
+      "description": "A responsive weather dashboard with location-based forecasts, interactive maps, and historical weather data visualization.",
+      "image": "/assets/images/project3.jpg",
+      "technologies": ["React", "D3.js", "OpenWeather API", "Chart.js"],
+      "githubUrl": "https://github.com/ratanlodhi/BlackOffer",
+      "liveUrl": "https://black-offer.vercel.app/",
+      "featured": false
+    },
+    {
+      "id": 4,
+  "title": "Advanced-React-To-Do-Application",
+  "description": "An advanced to-do application built with React, featuring task categorization, state management with Redux Toolkit, responsive UI with Tailwind CSS, and TypeScript for type safety.",
+  "image": "/assets/images/project4.jpg",
+  "technologies": ["React 18", "Redux Toolkit", "Tailwind CSS", "TypeScript"],
+  "githubUrl": "https://github.com/ratanlodhi/Advanced-React-To-Do-Application",
+  "liveUrl": "https://advanced-react-to-do-application-eight.vercel.app/",
+  "featured": false
+    }
+  ],
+  "experience": [
+    {
+  "id": 1,
+  "type": "work",
+  "title": "Software Developer",
+  "company": "Hireazy",
+  "location": "Indore, Madhya Pradesh, India",
+  "startDate": "2025-06",
+  "endDate": "2025-08",
+  "description": "Developing and optimizing scalable web applications, collaborating with cross-functional teams, and ensuring efficient CI/CD workflows to accelerate deployments.",
+  "achievements": [
+    "Designed and implemented scalable backend architecture to handle high user traffic",
+    "Optimized application performance, reducing load time by 40%",
+    "Collaborated with a team of 5 developers on multiple high-impact projects"
+  ]
+},
+   {
+  "id": 2,
+  "type": "work",
+  "title": "React Developer Intern",
+  "company": "Code Craft IT Solutions",
+  "location": "Remote",
+  "startDate": "2024-06",
+  "endDate": "2024-08",
+  "description": "Contributed to the development and maintenance of responsive web applications using React and Node.js, collaborating closely with design and product teams to deliver user-focused features.",
+  "achievements": [
+    "Developed responsive web interfaces from scratch using React",
+    "Integrated third-party APIs and implemented payment gateway solutions",
+    "Increased unit test coverage from 60% to 90% through rigorous testing"
+  ]
+},
+   {
+  "id": 3,
+  "type": "work",
+  "title": "Full Stack Developer Intern",
+  "company": "Naresh i Technologies",
+  "location": "Hydrabad",
+  "startDate": "2020-03",
+  "endDate": "2020-08",
+  "description": "Assisted in the development of full-stack applications using React, Node.js, and MongoDB, ensuring responsive design and seamless backend integration.",
+  "achievements": [
+    "Developed and integrated RESTful APIs with front-end applications",
+    "Converted Figma/PSD designs into fully responsive user interfaces",
+    "Implemented performance optimizations, improving load times by 30%"
+  ]
+}
+  ],
+  "education": [
+    {
+      "id": 4,
+      "type": "education",
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Gyan Sagar College of Engineering, Sagar",
+      "location": "Sagar, MP",
+      "startDate": "2021-07",
+      "endDate": "2025-6",
+      "description": "Graduated Magna Cum Laude with focus on software engineering and web development.",
+      "achievements": [
+        "GPA: 3.8/4.0",
+        "Dean's List for 6 semesters",
+        "Member of Computer Science Honor Society"
+      ]
+    }
+  ],
+  "social": {
+    "github": "https://github.com/ratanlodhi",
+    "linkedin": "linkedin.com/in/ratan-singh-663b76260",
+    "twitter": "https://twitter.com/johndoe",
+    "email": "ratan.work@email.com"
+  }
+}
