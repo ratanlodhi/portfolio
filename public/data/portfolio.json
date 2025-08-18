@@ -80,7 +80,27 @@
   "githubUrl": "https://github.com/ratanlodhi/Advanced-React-To-Do-Application",
   "liveUrl": "https://advanced-react-to-do-application-eight.vercel.app/",
   "featured": false
-    }
+    },
+   {
+  "id": 5,
+  "title": "ShopSphere E-commerce Platform",
+  "description": "A full-stack e-commerce platform that enables users to browse products, manage carts, and securely complete payments. Built with React 18, Tailwind CSS, and TypeScript on the frontend, with Node.js, Express.js, and MongoDB on the backend. Features include user authentication with JWT, order management, payment gateway integration, and an admin dashboard for managing products and orders.",
+  "image": "/assets/images/project5.jpg",
+  "technologies": [
+    "React 18",
+    "Tailwind CSS",
+    "TypeScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT",
+    "Stripe/Razorpay"
+  ],
+  "githubUrl": "https://github.com/ratanlodhi/ShopSphere",
+  "liveUrl": "https://shop-sphere-nine-weld.vercel.app/",
+  "featured": true
+}
+
   ],
   "experience": [
     {
