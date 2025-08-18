@@ -83,9 +83,19 @@
     },
    {
   "id": 5,
+  "title": "Image Gallery Application",
+  "description": "A responsive image gallery application built with React, featuring dynamic image rendering, category-based filtering, search functionality, and a modern UI styled with Tailwind CSS. Optimized for performance and seamless user experience.",
+  "image": "/assets/images/project5.jpg",
+  "technologies": ["React 18", "Tailwind CSS", "JavaScript", "TypeScript"],
+  "githubUrl": "https://github.com/ratanlodhi/Image-Gallery",
+  "liveUrl": "https://image-gallery-six-gamma.vercel.app/",
+  "featured": false
+},
+   {
+  "id": 6,
   "title": "ShopSphere E-commerce Platform",
   "description": "A full-stack e-commerce platform that enables users to browse products, manage carts, and securely complete payments. Built with React 18, Tailwind CSS, and TypeScript on the frontend, with Node.js, Express.js, and MongoDB on the backend. Features include user authentication with JWT, order management, payment gateway integration, and an admin dashboard for managing products and orders.",
-  "image": "/assets/images/project5.jpg",
+  "image": "/assets/images/project6.jpg",
   "technologies": [
     "React 18",
     "Tailwind CSS",
