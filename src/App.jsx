@@ -42,19 +42,19 @@ function App() {
             bio: 'I\'m a passionate full-stack developer with experience creating web applications.',
             profileImage: '/images/ProfilePicture.jpg',
             resume: '/assets/files/resume.pdf',
-            location: 'San Francisco, CA',
-            email: 'john.doe@email.com',
-            phone: '+1 (555) 123-4567'
+            location: 'Indore, Madhya Pradesh, IND',
+            email: 'ratan.workemail.com',
+            phone: '+91 9329224240'
           },
           skills: [],
           projects: [],
           experience: [],
           education: [],
           social: {
-            github: 'https://github.com/johndoe',
-            linkedin: 'https://linkedin.com/in/johndoe',
-            twitter: 'https://twitter.com/johndoe',
-            email: 'john.doe@email.com'
+            github: 'https://github.com/ratanlodhi',
+            linkedin: 'https://linkedin.com/in/ratan',
+            twitter: 'https://twitter.com/ratan',
+            email: 'ratan.work@email.com'
           }
         });
       } finally {
