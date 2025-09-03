@@ -199,20 +199,34 @@
       "featured": true
     },
     {
-      "id": 5,
-      "title": "Image Gallery Application",
-      "description": "A responsive image gallery application built with React, featuring dynamic image rendering, category-based filtering, search functionality, and a modern UI styled with Tailwind CSS. Optimized for performance and seamless user experience.",
-      "image": "/assets/images/project5.jpg",
-      "technologies": [
-        "React 18",
-        "Tailwind CSS",
-        "JavaScript",
-        "TypeScript"
-      ],
-      "githubUrl": "https://github.com/ratanlodhi/Image-Gallery",
-      "liveUrl": "https://image-gallery-six-gamma.vercel.app/",
-      "featured": false
-    },
+  "id": 5,
+  "title": "Finance AI Tracker",
+  "description": "Finance AI Tracker is a full-stack web application designed to help users effortlessly track their income and expenses. Leveraging artificial intelligence, the app can parse transaction details from text inputs (such as receipts or descriptions), automatically categorizing and organizing financial data. Users can visualize their spending patterns through interactive charts and gain valuable insights into their financial habits.",
+  "image": "/assets/images/project5.jpg",
+  "technologies": [
+    "React 19",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS",
+    "Shadcn/UI",
+    "Recharts",
+    "React Router",
+    "React Hook Form",
+    "Zustand",
+    "TanStack Query",
+    "Node.js",
+    "Express.js",
+    "Supabase",
+    "OpenAI API",
+    "Google Auth Library",
+    "JWT",
+    "bcryptjs",
+    "CORS"
+  ],
+  "githubUrl": "https://github.com/ratanlodhi/finance-ai-tracker",
+  "liveUrl": "https://finance-ai-tracker-chi.vercel.app/",
+  "featured": true
+},
     {
       "id": 6,
       "title": "Wedding Management App",
