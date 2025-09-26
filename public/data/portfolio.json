@@ -129,6 +129,28 @@
   ],
   "projects": [
     {
+  "id": 1,
+  "title": "FLINGZZ - Elite College Dating",
+  "description": "FLINGZZ is a full-stack college-focused dating platform that enables students to connect through profile matching, real-time chat, and personalized recommendations. The app integrates secure payments via Razorpay, real-time messaging with Socket.io, and JWT-based authentication for data protection.",
+  "image": "/assets/images/project7.avif",
+  "technologies": [
+    "React 18",
+    "Redux Toolkit",
+    "Tailwind CSS",
+    "TypeScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JWT Authentication",
+    "Socket.io",
+    "Razorpay",
+    "Supabase",
+    "Render Deployment"
+  ],
+  "liveUrl": "https://preview--grad-sync.lovable.app/",
+  "featured": true
+},
+    {
       "id": 1,
       "title": "Hotel Booking System",
       "description": "Hotel Booking System is a full-stack web app that allows users to search hotels, check real-time availability, and book rooms with secure payments. Features include role-based access (Guest, Staff, Admin), booking management, cancellations/refunds, and an analytics dashboard for occupancy and revenue.",
@@ -288,11 +310,27 @@
         "Converted Figma/PSD designs into fully responsive user interfaces",
         "Implemented performance optimizations, improving load times by 30%"
       ]
-    }
+    },
+   {
+  "id": 4,
+  "type": "work",
+  "title": "Frontend Developer",
+  "company": "Atom Networking",
+  "location": "Delhi",
+  "startDate": "2025-09",
+  "endDate": "2025-10",
+  "description": "Contributed to the development of high-performing full-stack web applications using React, Node.js, and MongoDB, ensuring pixel-perfect responsive design, cross-browser compatibility, and seamless backend integration to deliver scalable solutions.",
+  "achievements": [
+    "Engineered and integrated RESTful APIs with front-end applications, enhancing data flow and user experience",
+    "Transformed Figma/PSD designs into fully responsive, interactive, and mobile-first user interfaces",
+    "Implemented advanced performance optimizations and code-splitting strategies, reducing page load times by 30% and boosting Core Web Vitals"
+  ]
+}
+
   ],
   "education": [
     {
-      "id": 4,
+      "id": 5,
       "type": "education",
       "degree": "Bachelor of Science in Computer Science",
       "institution": "Gyan Sagar College of Engineering, Sagar",
